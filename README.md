@@ -1,4 +1,4 @@
-# Pseudorandom number generation with a LFSR in cpp
+# Pseudorandom numbers generation with a LFSR in cpp
 
 ### C'est quoi un LFSR ? 
 
